@@ -60,4 +60,4 @@ Enjoy the adrenaline-pumping action of the Fighting Game and emerge victorious i
 
 ## Note
 
-This game is replicated from youtuber (Chris Courses) for javasctipt learning purposes!
+This game is replicated from youtuber (Chris Courses) for javascript learning purposes!
